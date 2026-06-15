@@ -1,4 +1,4 @@
-# Hey, I'm Jorge Rodriguez 👋
+# Hey, I'm Jorge Rodriguez
 
 **Founder & Full-Stack AI Platform Engineer** at [Florida Hitech Services](https://floridahitech.com) — Miami, FL
 
