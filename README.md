@@ -8,13 +8,13 @@ I build production AI platforms end to end — multi-tenant SaaS where LLM agent
 
 ### What I'm building
 
-🔧 **Consulting CRM** — Multi-tenant AI SaaS for credit-repair agencies
+ **Consulting CRM** — Multi-tenant AI SaaS for credit-repair agencies
 - LLM-powered dispute automation (Claude API)
 - PDF credit report parsing into structured data
 - Token-based onboarding + Stripe Connect billing
 - Supabase/PostgreSQL with Row Level Security for tenant isolation
 
-🎙️ **Voice AI Prototypes** — Conversational AI agents combining Claude API + ElevenLabs + Twilio
+ **Voice AI Prototypes** — Conversational AI agents combining Claude API + ElevenLabs + Twilio
 
 ---
 
@@ -34,9 +34,9 @@ I build production AI platforms end to end — multi-tenant SaaS where LLM agent
 
 ### Certifications
 
-🏅 **20x Anthropic Certified** (June 2026) — Claude API, MCP, Agents, Subagents, Claude Code, Bedrock, Vertex AI
+ **20x Anthropic Certified** (June 2026) — Claude API, MCP, Agents, Subagents, Claude Code, Bedrock, Vertex AI
 
-🏅 **Google IT Support Professional** (2024) — Networking, Security, System Administration
+ **Google IT Support Professional** (2024) — Networking, Security, System Administration
 
 ---
 
