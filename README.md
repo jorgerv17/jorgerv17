@@ -17,7 +17,7 @@ Answers the calls a business misses, in English and Spanish, using only the busi
 - Guardrails against phone manipulation, server-side checks the AI cannot bypass, and an adversarial test battery every prompt version must pass before it ships
 - Owner panel (messages, calls, transcripts, recordings, agenda) and admin console (one-click onboarding, per-call costs and usage)
 
-🏭 **The Factory — a Meta Harness for software delivery** *(builds everything here)*
+🏭 **The Factory — a Meta Harness for software delivery** *(how I ship software)*
 A coding-agent harness makes one model reliable. A Meta Harness coordinates many of them.
 The Factory turns a feature request into reviewed pull requests: deterministic scaffolding around probabilistic agents.
 - **Contract first, machine-checked.** An architect agent reads the repo and writes a contract — schema, routes, file-by-file ownership, every migration with its rollback. A validator rejects it if two agents would touch the same file, a port repeats or a migration has no way back, before any agent writes code.
