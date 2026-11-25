@@ -35,7 +35,7 @@ A company signs up, picks a plan, invites its team and manages clients end to en
 - Multi-tenant: every table carries the tenant, and row-level security keeps data from ever crossing between companies
 - AI-powered dispute workflow and PDF credit-report parsing into structured data
 - **Funding module** — a Credit Karma-style financial recommender: a catalog of lenders where every field keeps its source and date, and a matching engine that compares each client's credit profile against lender eligibility to surface the best personal-loan options
-- **Business financing in progress** — business credit cards, lines of credit, term loans, SBA and factoring, so a company can find its best options with banks and lenders
+- **Business financing is the next vertical** — the data model and the lender list for business cards, lines of credit, term loans, SBA and factoring are already in place
 - **MCP server**: any MCP-compatible agent (Claude, Cursor and others) can connect directly with a key. Read-only, scoped to what that key may see, with per-key rate limits and an append-only call log — if the log fails, no data is returned
 - Multi-tenant billing with Stripe Connect, plans per company and token-based onboarding
 
