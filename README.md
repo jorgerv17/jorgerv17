@@ -4,7 +4,7 @@
 
 I build production AI platforms end to end: multi-tenant SaaS where AI agents do real work for small businesses — answering phone calls, booking appointments, processing documents — and the Meta Harness that builds them. Claude Code is my primary way of building, and I build my own tools on top of it, made to fit the way I work.
 
-**Since March 2026:** 5,400+ commits across 17 private repositories · 100+ runs of my own agent factory · 3 platforms live in production.
+**In the last eight months:** 5,400+ commits across 17 private repositories · 100+ runs of my own agent factory · 3 platforms live in production.
 
 **What I bring**
 - **AI agents in production, talking to real customers** — Mely answers real business phone lines, books appointments and hands calls to people
