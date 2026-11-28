@@ -108,7 +108,7 @@ The Factory turns a one-line goal into reviewed pull requests: deterministic sca
 
 ### Certifications
 
-**20x Anthropic Certified** (June 2026) — Claude API, MCP, Agents, Subagents, Claude Code, Bedrock, Vertex AI
+**19x Anthropic Certified** (June 2026) — Claude API, MCP, Agents, Subagents, Claude Code, Bedrock, Vertex AI
 
 **Google IT Support Professional** (2024) — Networking, Security, System Administration
 
